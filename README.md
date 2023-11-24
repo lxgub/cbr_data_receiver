@@ -5,7 +5,7 @@
 This service retrieves currency exchange rate data by querying the REST API 
 of the Central Bank (CBR), parses the data, and stores it in a PostgreSQL database.
 
-## Локальная установка
+## Installation process
 
 1. Fill in all the necessary fields in the configuration file
 
