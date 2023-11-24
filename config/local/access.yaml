@@ -1,0 +1,10 @@
+cbrf_api: "https://www.cbr.ru/scripts/XML_daily.asp"
+waiting_time: 86400
+postgres:
+  host: localhost
+  port: 5432
+  user: user
+  password: pass
+  dbname: dbname
+
+
